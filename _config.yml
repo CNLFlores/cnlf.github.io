@@ -29,9 +29,53 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: clubenaval.flores
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+minimal_mistakes_skin: "dark"
+locale: "pt-PT"
+title_separator: "|"
+url: "https://www.cnlf.pt/"
+logo: "/assets/images/logo.png"
+#masthead_title: "CNLF"
+breadcrumbs: true
+search: true
+timezone: Atlantic/Azores
+
+include: ["_pages"]
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: 5 # 5 (default)
+    colorscheme: "dark" # "light" (default), "dark"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      comments: true
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/clubenaval.flores"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

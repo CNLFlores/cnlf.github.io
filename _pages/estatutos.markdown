@@ -2,66 +2,67 @@
 layout: single
 title: Estatuto
 permalink: /estatuto/
+toc: true
 ---
 
 Documento complementar elaborado nos termos do número dois do artigo setenta e oito do Código do Notariado que faz parte integrante da escritura lavrada em trinta e um de Maio de mil novecentos e oitenta e nove, exarada a folhas sessenta e sete do livro de notas número cinquenta e cinco do Cartório Notarial de Lajes das Flores.
 
 # ESTATUTO DO CLUBE NAVAL DE LAJES DAS FLORES
 
-## CAPÍTULO I<br/>Natureza, denominação, sede, fins e composição
+## CAPÍTULO I – Natureza, denominação, sede, fins e composição
 
-#### Artigo 1.º
+### Artigo 1.º
 
 É constituída uma Associação, denominada Clube Naval de Lajes das Flores, que terá a sua sede na vila das Lajes das Flores, Ilha das Flores, Açores, podendo estabelecer filiais, delegações ou representações em outros locais, no País ou no estrangeiro.
 
-#### Artigo 2.º<br/>Objecto e fins
+### Artigo 2.º – Objecto e fins
 
 O Clube Naval de Lajes das Flores é uma Associação Desportiva, Recreativa e Cultural sem fins lucrativos, cujo objecto consiste na prática e fomento dos desportos náuticos, na formação dos respectivos praticantes, na realização de actividades afins culturais e recreativas, e na recuperação e conservação do património náutico.
 
-#### Artigo 3.º
+### Artigo 3.º
 
 Na prossecução dos seus fins o Clube Naval de Lajes das Flores promoverá a defesa e preservação do equilíbrio ecológico marítimo e do meio ambiente da orla marítima, bem como a divulgação da Ilha das Flores, da Região Autónoma dos Açores e do País, no que se refere a todas as actividades relacionadas com o mar.
 
 Parágrafo único – No âmbito da sua actividade o Clube Naval de Lajes das Flores presta serviços aos sócios e a outras pessoas e entidades.
 
-#### Artigo 4.º
+### Artigo 4.º
 
 De acordo com os fundamentos da sua existência, o Clube Naval de Lajes das Flores não intervêm em actividades diversas das estabelecidas nos artigos anteriores nomeadamente de índole política ou religiosa. 
 
-#### Artigo 5.º<br/>Composição
+### Artigo 5.º – Composição
 
 O Clube Naval de Lajes das Flores é composto por um número indeterminado de sócios.
 
 ## CAPÍTULO II
 
-#### Artigo 6.º<br/>Estandarte
+### Artigo 6.º – Estandarte
 
 O Estandarte do Clube Naval de Lajes das Flores é rectangular com cruz de prata sobre fundo azul-marinho e no cruzamento desta uma roda de leme castanho com a Cruz de Cristo ao centro. No interior da roda de leme será inscrito a preto o nome do Clube.
-#### Artigo 7.º<br/>Bandeira
+### Artigo 7.º – Bandeira
 
 A Bandeira do Clube Naval de Lajes das Flores é rectangular, com cruz de prata sobre fundo azul marinho e no cruzamento desta uma roda de leme castanho com a Cruz de Cristo ao centro. No interior da roda de leme poderá ser inscrito a preto o nome do Clube.
 
-#### Artigo 8.º<br/>Distintivo
+### Artigo 8.º – Distintivo
 
 O distintivo é constituído por um galhardete com as mesmas cores e desenho da bandeira.
 
-#### Artigo 9.º<br/>Emblema
+### Artigo 9.º – Emblema
 
 O emblema do Clube Naval de Lajes das Flores é a roda de elemento castanho com iniciais do Clube no seu interior e a Cruz de Cristo ao centro sobre fundo azul-marinho e cruz de prata.
 
-#### Artigo 10.º<br/>Equipamentos
+### Artigo 10.º – Equipamentos
 
 Os desportistas e equipas, quando em representação do Clube Naval de Lajes das Flores, usarão equipamentos a estabelecer em regulamento interno dos quais conste, de forma visível, o emblema do Clube.
 
-#### Artigo 11.º<br/>Carimbo e selo
+### Artigo 11.º – Carimbo e selo
 
 O carimbo e selo branco são constituídos por uma roda de leme tendo ao centro a Cruz de Cristo e no interior da roda de leme as iniciais do Clube Naval de Lajes das Flores.
 
-## CAPÍTULO III<br/>Sócios
+## CAPÍTULO III – Sócios
 
-### SECÇÃO I<br/>Categorias de sócios
+### SECÇÃO I – Categorias de sócios
 
-#### Artigo 12.º<br/>Categorias
+#### Artigo 12.º – Categorias
 
 Os sócios do Clube Naval de Lajes das Flores têm as seguintes categorias:
 <ol type="a">
@@ -71,23 +72,23 @@ Os sócios do Clube Naval de Lajes das Flores têm as seguintes categorias:
   <li>Sócios auxiliares.</li>
 </ol>
 
-#### Artigo 13.º<br/>Sócios honorários
+#### Artigo 13.º – Sócios honorários
 
 São sócios honorários os indivíduos que tenham prestado relevantes serviços ao Clube e aos desportos e actividades náuticas em geral.
 
-#### Artigo 14.º<br/>Sócios de mérito
+#### Artigo 14.º – Sócios de mérito
 
 São sócios de mérito os sócios efectivos ou auxiliares que tenham prestado relevantes serviços ao Clube e aos desportos náuticos em geral.
 
-#### Artigo 15.º<br/>Sócios efectivos
+#### Artigo 15.º – Sócios efectivos
 
 São sócios efectivos todos os indivíduos de ambos os sexos maiores de dezoito anos.
 
-#### Artigo 16.º<br/>Sócios auxiliares
+#### Artigo 16.º – Sócios auxiliares
 
 São sócios auxiliares os indivíduos de ambos os sexos, menores de dezoito anos e ainda todos os cidadãos não residentes, nacionais ou estrangeiros, que pretendam participar temporariamente nas actividades do Clube.
 
-### SECÇÃO II<br/>Admissão de sócios
+### SECÇÃO II – Admissão de sócios
 
 #### Artigo 17.º
 
@@ -107,7 +108,7 @@ A admissão de sócios efectivos e auxiliares compete à Direcção, mediante pr
 
 Após a admissão deverá o novo sócio efectuar o pagamento da jóia e fazer entrega de duas fotografias, sendo-lhe passado o respectivo cartão de identificação.
 
-### SECÇÃO III<br/>Direitos dos sócios
+### SECÇÃO III – Direitos dos sócios
 
 #### Artigo 21.º
 
@@ -142,7 +143,7 @@ Os sócios efectivos têm os seguintes direitos:
 
 Constituem direitos dos sócios auxiliares os constantes dos números cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze e dezasseis do artigo anterior.
 
-### SECÇÃO IV<br/>Deveres dos sócios
+### SECÇÃO IV – Deveres dos sócios
 
 #### Artigo 25.º
 
@@ -167,9 +168,9 @@ Deveres especiais dos sócios efectivos:
 
 É vedado aos sócios a utilização de embarcações, instalações ou equipamentos do Clube visando a obtenção de lucros ou vantagens pessoais.
 
-## CAPÍTULO IV<br/>Corpos gerentes
+## CAPÍTULO IV – Corpos gerentes
 
-### SECÇÃO I<br/>Constituição e eleições
+### SECÇÃO I – Constituição e eleições
 
 #### Artigo 28.º
 
@@ -181,55 +182,55 @@ Os Corpos Gerentes são eleitos por um período de dois anos por escrutínio dir
 
 Parágrafo único – A eleição dos Corpos Gerentes deverá ter lugar no mês de Outubro.
 
-### SECÇÃO II<br/>Assembleia Geral
+### SECÇÃO II – Assembleia Geral
 
-#### Artigo 30.º<br/>Constituição, competência e funcionamento
+#### Artigo 30.º – Constituição, competência e funcionamento
 
 1. A Assembleia Geral é constituída pelos sócios honorários, de mérito e efectivos competindo-lhe decidir em última instância e sem recurso sobre todos os assuntos respeitantes ao Clube.
 2. A Assembleia Geral não pode deliberar sem a maioria dos seus sócios, mas, passada meia hora daquela para que foi convocada, funcionará com o número de sócios presentes, o que será mencionado na própria convocatória.
 3. As convocações para a reunião da Assembleia Geral serão feitas pelo Presidente, por meio de aviso postal expedido para cada um dos associados, e num dos jornais da Ilha das Flores, com pelo menos oito dias de antecedência, em que se declara o assunto a tratar, dia, hora e local da reunião.
 
-#### Artigo 31.º<br/>Mesa
+#### Artigo 31.º – Mesa
 
 A Mesa da Assembleia Geral compõe-se de um Presidente, de um Vice-Presidente e de um Secretário.
 
-#### Artigo 32.º<br/>Reuniões
+#### Artigo 32.º – Reuniões
 
 A Assembleia Geral reunirá em sessão ordinária para o cumprimento das disposições estatutárias e em sessão extraordinária sempre que seja convocada nos termos do artigo trigésimo quarto.
 
-#### Artigo 33.º<br/>Reuniões ordinárias
+#### Artigo 33.º – Reuniões ordinárias
 
 A Assembleia Geral reunirá ordinariamente para a eleição dos Corpos Gerentes, para aprovação do relatório de actividades e contas, e para apreciação do plano e orçamento para o ano seguinte.
 
-#### Artigo 34.º<br/>Reuniões extraordinárias
+#### Artigo 34.º – Reuniões extraordinárias
 
 As reuniões extraordinárias da Assembleia Geral terão lugar por convocatória do Presidente, a pedido da Direcção, do Conselho Fiscal, do Conselho Geral ou a requerimento de vinte sócios.
 
 Parágrafo único – Não poderá a Assembleia tomar conhecimento do assunto para que for convocada a requerimento dos sócios se não estiverem presentes os signatários em número de, pelo menos, doze, e no caso destes não comparecerem, não poderá a Assembleia Geral voltar a reunir-se para tratar do mesmo assunto dentro do prazo de seis meses.
 
-#### Artigo 35.º<br/>Competência específica do Presidente
+#### Artigo 35.º – Competência específica do Presidente
 
 Compete ao Presidente da Assembleia Geral assinar os termos da abertura e encerramento, bem como rubricar as respectivas folhas de todos os livros de actas e escriturações e dar posse aos corpos gerentes.
 
-#### Artigo 36.º<br/>Actas
+#### Artigo 36.º – Actas
 
 As deliberações da Assembleia Geral ficarão consignadas num livro de actas nas quais constarão na íntegra todos os requerimentos, moções e propostas apresentadas e votadas.
 
-#### Artigo 37.º<br/>Substituição da Mesa
+#### Artigo 37.º – Substituição da Mesa
 
 Na ausência de qualquer membro da mesa, a Assembleia Geral designará substitutos entre os seus membros.
 
-### SECÇÃO III<br/>Direcção<br/>Constituição, competência e funcionamento
+### SECÇÃO III – Direcção – Constituição, competência e funcionamento
 
-#### Artigo 38.º<br/>Atribuições
+#### Artigo 38.º – Atribuições
 
 A Direcção é o Órgão ao qual está entregue a administração do Clube em todos os ramos da sua actividade, e gestão dos meios e equipamentos disponíveis e o desenvolvimento das acções necessárias à realização dos seus objectivos, com especial relevo para a viabilização económica da Clube.
 
-#### Artigo 39.º<br/>Composição
+#### Artigo 39.º – Composição
 
 A Direcção é composta por um Presidente, dois Vice-Presidentes, um Secretário, um Tesoureiro e dois substitutos que assumirão funções efectivas quando se verificar qualquer vaga.
 
-#### Artigo 40.º<br/>Competência
+#### Artigo 40.º – Competência
 
 Serão da competência da Direcção entre outros os seguintes actos:
 1. Elaborar e submeter à apreciação da Assembleia Geral o Plano de Actividades e Orçamento do Clube.
@@ -240,39 +241,39 @@ Serão da competência da Direcção entre outros os seguintes actos:
 6. Representar o Clube e estabelecer em seu nome convénios e protocolos que interessem aos seus objectivos.
 7. Aprovar os regulamentos internos das secções sob proposta daquelas.
 
-#### Artigo 41.º<br/>Reuniões
+#### Artigo 41.º – Reuniões
 
 As reuniões ordinárias da Direcção serão periódicas, com intervalos regulares e as extraordinárias serão convocadas pelo Presidente ou por iniciativa da maioria dos seus membros.
 
 1. A Direcção poderá convocar para participarem nas suas reuniões, sem direito de voto, seccionistas, funcionários do Clube, sócios ou outras pessoas desde que a sua presença seja considerada necessária.
 
-#### Artigo 42.º<br/>Deliberações
+#### Artigo 42.º – Deliberações
 
 As deliberações da Direcção são tomadas por maioria.
 
 PARÁGRAFO ÚNICO – O Presidente terá voto de desempate.
 
-### SECÇÃO IV<br/>Conselho Fiscal<br/>Composição, competência e funcionamento
+### SECÇÃO IV – Conselho Fiscal – Composição, competência e funcionamento
 
-#### Artigo 43.º<br/>Composição
+#### Artigo 43.º – Composição
 
 O Conselho Fiscal será composto por um Presidente, um Secretário, um Relator e um substituto.
 
-#### Artigo 44.º<br/>Reuniões
+#### Artigo 44.º – Reuniões
 
 O Conselho Fiscal reunirá ordinariamente uma vez em cada ano, podendo reunir extraordinariamente sempre que as circunstâncias o justifiquem.
 
-#### Artigo 45.º<br/>Competência
+#### Artigo 45.º – Competência
 
 Ao Conselho Fiscal compete examinar os actos administrativos da Direcção, os livros de contabilidade e a situação financeira do Clube acerca dos quais formulará parecer que deverá figurar no relatório referido no artigo trigésimo terceiro.
 
-### SECÇÃO V<br/>Conselho Geral<br/>Composição, competência e funcionamento
+### SECÇÃO V – Conselho Geral – Composição, competência e funcionamento
 
-#### Artigo 46.º<br/>Atribuições
+#### Artigo 46.º – Atribuições
 
 O Conselho Geral é um Órgão com funções deliberativas e consultivas, que assegurando um elevado grau de participação dos sócios na vida do Clube, zelará para que sejam harmonizados e desenvolvidos todos os objectivos estatutariamente definidos.
 
-#### Artigo 47.º<br/>Composição
+#### Artigo 47.º – Composição
 
 O Conselho Geral é composto por membros eleitos directamente, por membros eleitos em representação e por membros com funções por inerência.
 
@@ -280,7 +281,7 @@ O Conselho Geral é composto por membros eleitos directamente, por membros eleit
 2. Os membros eleitos em representação são-no pelas secções, tendo cada uma direito à eleição de um membro do Conselho Geral.
 3. Os membros por inerência de funções são o Presidente da Assembleia Geral, o Presidente do Conselho Fiscal e a totalidade dos membros efectivos e substitutos da Direcção.
 
-#### Artigo 48.º<br/>Competências
+#### Artigo 48.º – Competências
 
 Compete ao Conselho Geral:
 1. Dar parecer sobre o Plano de Actividades e Orçamento, o qual deve acompanhar os citados documentos quando forem submetidos à apreciação da Assembleia Geral.
@@ -289,7 +290,7 @@ Compete ao Conselho Geral:
 4. Aprovar, sob proposta da Direcção, o calendário de provas desportivas do Clube a realizar em cada ano, sempre que tal calendário não conste, em pormenor, do Plano de Actividades.
 5. Aprovar, sob proposta da Direcção, a criação ou extinção das secções do Clube.
 
-#### Artigo 49.º<br/>Funcionamento
+#### Artigo 49.º – Funcionamento
 
 1. O Conselho Geral reúne ordinariamente de três em três meses e extraordinariamente sempre que convocado pelo Presidente da Assembleia Geral, a pedido da Direcção ou do Conselho Fiscal, ou a requerimento de um terço dos seus membros. As reuniões do Conselho Geral serão dirigidas pelo Presidente da Assembleia Geral, secretariado por qualquer dos seus membros.
 2. As convocações para reunião do Conselho Geral serão feitas pelo Presidente da Assembleia Geral, afixadas na Sede do Clube e entregues, por aviso circular a cada um dos seus membros com quarenta e oito horas de antecedência.
@@ -299,7 +300,7 @@ Compete ao Conselho Geral:
 
 Os pareceres e deliberações do Conselho Geral serão registados em livro próprio, transmitidos aos restantes Corpos Gerentes e poderão ser consultados pelos sócios efectivos.
 
-### SECÇÃO VI<br/>Secções
+### SECÇÃO VI – Secções
 
 #### Artigo 51.º
 
@@ -326,41 +327,41 @@ As Secções regem-se por regulamentos próprios aprovados pela Direcção sob p
 
 Cada Secção elege um representante para o Conselho Geral.
 
-## CAPÍTULO V<br/>Disciplina
+## CAPÍTULO V – Disciplina
 
-#### Artigo 56.º
+### Artigo 56.º
 
 Os sócios que violem os Estatutos e Regulamentos em vigor e que prejudiquem o normal funcionamento do Clube, serão passíveis de sanções disciplinares.
 
-#### Artigo 57.º
+### Artigo 57.º
 
 São Sanções:<ol type="a">
   <li>Suspensão total ou parcial do direito dos sócios, até trinta dias.</li>
   <li>Expulsão de sócio.</li>
 </ol>
 
-#### Artigo 58.º
+### Artigo 58.º
 
 As sanções previstas na alínea a) do artigo anterior são da competência da direcção, cabendo recurso para a Assembleia Geral.
 
-#### Artigo 59.º
+### Artigo 59.º
 
 A sanção previstas na alínea b) do artigo quinquagésimo sétimo é da competência exclusiva da Assembleia Geral, sob proposta da Direcção ou de um número de vinte sócios.
 
-## CAPÍTULO VI<br/>Disposições gerais
+## CAPÍTULO VI – Disposições gerais
 
-#### Artigo 60.º
+### Artigo 60.º
 
 Todos os casos omissos nestes Estatutos serão resolvidos pela Assembleia Geral.
 
-#### Artigo 61.º<br/>Alteração dos Estatutos
+### Artigo 61.º – Alteração dos Estatutos
 
 Os Estatutos só podem ser alterados ou reformados em Assembleia Geral, com voto favorável de três quartos do número de sócios presentes.
 
-#### Artigo 62.º
+### Artigo 62.º
 
 Enquanto vinte sócios se declararem constituídos não pode o Clube dissolver-se.
 
-#### Artigo 63.º
+### Artigo 63.º
 
 No caso de dissolução ou extinção do Clube Naval de Lajes das Flores o produto líquido da venda dos móveis e imóveis reverterá a favor da Câmara Municipal de Lajes das Flores.

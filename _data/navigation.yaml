@@ -1,4 +1,6 @@
 main:
+  - title: "Início"
+    url: /
   - title: "Acerca"
     url: /acerca/
   - title: "Estatuto"

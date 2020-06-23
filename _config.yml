@@ -30,9 +30,12 @@ facebook_username: clubenaval.flores
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 
 minimal_mistakes_skin: "dark"
 locale: "pt-PT"

@@ -30,6 +30,8 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Theme
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-include-cache"
 
 gem "github-pages", group: :jekyll_plugins

@@ -4,6 +4,4 @@ title: Acerca
 permalink: /acerca/
 ---
 
-Aqui estaria informação sobre o clube.
-
-[jekyll-organization]: https://github.com/jekyll
+O Clube Naval das Lajes das Flores, foi criado a 31 de maio de 1989.

@@ -244,7 +244,7 @@ pt: &DEFAULT_PT
   comments_title             : "Comentários"
   more_label                 : "Saber mais"
   related_label              : "Também pode gostar de"
-  follow_label               : "Siga:"
+  follow_label               : "Siga-nos:"
   feed_label                 : "Fonte"
   powered_by                 : "Feito com"
   website_label              : "Sítio"

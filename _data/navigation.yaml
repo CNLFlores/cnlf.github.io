@@ -5,6 +5,8 @@ main:
     url: /acerca/
   - title: "Estatuto"
     url: /estatuto/
+  - title: "Contactos"
+    url: /contacts/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"

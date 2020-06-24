@@ -68,7 +68,7 @@ toc: true
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
       <a href="/assets/images/felix.jpg"><img src="/assets/images/felix.jpg"></a>
-      <p>Presidente:<br/>Félix Martins</p>
+      <p>Presidente:<br/>Félix Martins</p><br/>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
       <a href="/assets/images/andrerodas.jpg"><img src="/assets/images/andrerodas.jpg"></a>
@@ -77,7 +77,7 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p>Vogal:<br/>João Tibúrcio</p>
+      <p>Vogal:<br/>João Tibúrcio<br/><a href="https://www.facebook.com/joao.tiburcio.315" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
     </td>
   </tr>
 </table>

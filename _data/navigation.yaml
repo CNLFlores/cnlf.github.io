@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Acerca"
     url: /acerca/
+  - title: "Corpos gerentes"
+    url: /gerentes/
   - title: "Estatuto"
     url: /estatuto/
   - title: "Contactos"

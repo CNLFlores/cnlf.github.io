@@ -48,10 +48,10 @@ toc: true
 
 <table>
   <tr>
-    <td style="vertical-align: bottom;">
+    <td style="vertical-align: bottom; width: 50%;">
       <p>Presidente:<br/>Serafim Freitas</p>
     </td>
-    <td style="vertical-align: bottom;">
+    <td style="vertical-align: bottom; width: 50%;">
       <p>Vogal:<br/>Keith Marshall</p>
     </td>
   </tr>
@@ -66,11 +66,12 @@ toc: true
 
 <table>
   <tr>
-    <td style="vertical-align: bottom;">
+    <td style="vertical-align: bottom; width: 50%;">
       <p>Presidente:<br/>Félix Martins</p>
     </td>
-    <td style="vertical-align: bottom;">
-      <p>Vogal:<br/>André Rodas</p>
+    <td style="vertical-align: bottom; width: 50%;">
+      <a href="/assets/images/andrerodas.jpg"><img src="/assets/images/andrerodas.jpg"></a>
+      <p>Vogal:<br/>André Rodas<br/><a href="https://www.facebook.com/profile.php?id=100012364506863" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
     </td>
   </tr>
   <tr>

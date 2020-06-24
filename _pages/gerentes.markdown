@@ -25,7 +25,7 @@ toc: true
     </td>
     <td style="vertical-align: bottom">
       <a href="/assets/images/marta.jpg"><img src="/assets/images/marta.jpg"></a>
-      <p>Secretária:<br/>Marta Soares<br/><a href="https://www.facebook.com/marta.soares.790256" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
+      <p>Secretária:<br/>Marta Soares<br/><a href="https://www.facebook.com/marta.soares.790256" target="_blank"><span class="fab fa-fw fa-facebook"></span></a><a href="https://www.instagram.com/martasgsoares/" target="_blank"><span class="fab fa-fw fa-instagram"></span></a><a href="https://www.linkedin.com/in/martasgsoares/" target="_blank"><span class="fab fa-fw fa-linkedin"></span></a></p>
     </td>
   </tr>
   <tr>

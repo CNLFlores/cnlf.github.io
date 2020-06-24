@@ -1,9 +1,11 @@
 main:
   - title: "Início"
     url: /
+  - title: "Património Baleeiro"
+    url: /patrimonio/
   - title: "Acerca"
     url: /acerca/
-  - title: "Corpos gerentes"
+  - title: "Corpos Gerentes"
     url: /gerentes/
   - title: "Estatuto"
     url: /estatuto/

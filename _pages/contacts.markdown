@@ -7,6 +7,7 @@ header:
 ---
 
 <address>
+  Clube Naval de Lajes das Flores<br/>
   (Antiga Fábrica da Baleia – Zona Portuária)<br/>
   Rua Porto<br/>
   9960-438 Lajes das Flores<br/>

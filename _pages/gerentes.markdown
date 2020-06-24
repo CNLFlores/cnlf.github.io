@@ -57,7 +57,7 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p>Voga:<br/>Manuel José Gomes</p>
+      <p>Vogal:<br/>Manuel José Gomes</p>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ toc: true
       <p>Presidente:<br/>Félix Martins</p>
     </td>
     <td style="vertical-align: bottom;">
-      <p>Vogal: Vogal:<br/>André Rodas</p>
+      <p>Vogal:<br/>André Rodas</p>
     </td>
   </tr>
   <tr>

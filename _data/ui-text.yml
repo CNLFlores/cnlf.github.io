@@ -263,6 +263,7 @@ pt: &DEFAULT_PT
   comment_error_msg          : "Lamento, ocorreu um erro na sua submissão. Por favor verifique se todos os campos obrigatórios estão correctamente preenchidos e tente novamente."
   loading_label              : "A carregar..."
   search_label_text          : "Introduza os seus termos de pesquisa…"
+  search_placeholder_text    : "Introduza os seus termos de pesquisa…"
 pt-PT:
   <<: *DEFAULT_PT
 # Brazilian Portuguese

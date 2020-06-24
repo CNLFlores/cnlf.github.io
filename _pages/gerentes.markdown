@@ -67,6 +67,7 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
+      <a href="/assets/images/felix.jpg"><img src="/assets/images/felix.jpg"></a>
       <p>Presidente:<br/>Félix Martins</p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">

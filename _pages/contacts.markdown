@@ -3,11 +3,11 @@ layout: single
 title: Contactos
 permalink: /contacts/
 header:
-  image: /assets/images/botes.jpg
+  image: /assets/images/s.pedro.jpg
 ---
 
 <address>
-  (Antiga Fábrica da Baleia – Zona Portuária)
+  (Antiga Fábrica da Baleia – Zona Portuária)<br/>
   Rua Porto<br/>
   9960-438 Lajes das Flores<br/>
   Portugal<br/>

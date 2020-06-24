@@ -7,3 +7,5 @@ header:
 ---
 
 O Clube Naval das Lajes das Flores, foi criado a 31 de maio de 1989.
+
+![O Formosa](/assets/images/formosa2.jpg)

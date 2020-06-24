@@ -4,14 +4,14 @@ title: Estatuto
 permalink: /estatuto/
 toc: true
 header:
-  image: /assets/images/botes.jpg
+  image: /assets/images/formosa.jpg
 ---
 
 Documento complementar elaborado nos termos do número dois do artigo setenta e oito do Código do Notariado que faz parte integrante da escritura lavrada em trinta e um de Maio de mil novecentos e oitenta e nove, exarada a folhas sessenta e sete do livro de notas número cinquenta e cinco do Cartório Notarial de Lajes das Flores.
 
-# ESTATUTO DO CLUBE NAVAL DE LAJES DAS FLORES
+# Estatuto do Clube Naval de Lajes das Flores
 
-## CAPÍTULO I – Natureza, denominação, sede, fins e composição
+## Capítulo I – Natureza, denominação, sede, fins e composição
 
 ### Artigo 1.º
 
@@ -35,7 +35,7 @@ De acordo com os fundamentos da sua existência, o Clube Naval de Lajes das Flor
 
 O Clube Naval de Lajes das Flores é composto por um número indeterminado de sócios.
 
-## CAPÍTULO II
+## Capítulo II
 
 ### Artigo 6.º – Estandarte
 
@@ -60,9 +60,9 @@ Os desportistas e equipas, quando em representação do Clube Naval de Lajes das
 
 O carimbo e selo branco são constituídos por uma roda de leme tendo ao centro a Cruz de Cristo e no interior da roda de leme as iniciais do Clube Naval de Lajes das Flores.
 
-## CAPÍTULO III – Sócios
+## Capítulo III – Sócios
 
-### SECÇÃO I – Categorias de sócios
+### Secção I – Categorias de sócios
 
 #### Artigo 12.º – Categorias
 
@@ -90,7 +90,7 @@ São sócios efectivos todos os indivíduos de ambos os sexos maiores de dezoito
 
 São sócios auxiliares os indivíduos de ambos os sexos, menores de dezoito anos e ainda todos os cidadãos não residentes, nacionais ou estrangeiros, que pretendam participar temporariamente nas actividades do Clube.
 
-### SECÇÃO II – Admissão de sócios
+### Secção II – Admissão de sócios
 
 #### Artigo 17.º
 
@@ -110,7 +110,7 @@ A admissão de sócios efectivos e auxiliares compete à Direcção, mediante pr
 
 Após a admissão deverá o novo sócio efectuar o pagamento da jóia e fazer entrega de duas fotografias, sendo-lhe passado o respectivo cartão de identificação.
 
-### SECÇÃO III – Direitos dos sócios
+### Secção III – Direitos dos sócios
 
 #### Artigo 21.º
 
@@ -145,7 +145,7 @@ Os sócios efectivos têm os seguintes direitos:
 
 Constituem direitos dos sócios auxiliares os constantes dos números cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze e dezasseis do artigo anterior.
 
-### SECÇÃO IV – Deveres dos sócios
+### Secção IV – Deveres dos sócios
 
 #### Artigo 25.º
 
@@ -170,9 +170,9 @@ Deveres especiais dos sócios efectivos:
 
 É vedado aos sócios a utilização de embarcações, instalações ou equipamentos do Clube visando a obtenção de lucros ou vantagens pessoais.
 
-## CAPÍTULO IV – Corpos gerentes
+## Capítulo IV – Corpos gerentes
 
-### SECÇÃO I – Constituição e eleições
+### Secção I – Constituição e eleições
 
 #### Artigo 28.º
 
@@ -184,7 +184,7 @@ Os Corpos Gerentes são eleitos por um período de dois anos por escrutínio dir
 
 Parágrafo único – A eleição dos Corpos Gerentes deverá ter lugar no mês de Outubro.
 
-### SECÇÃO II – Assembleia Geral
+### Secção II – Assembleia Geral
 
 #### Artigo 30.º – Constituição, competência e funcionamento
 
@@ -222,7 +222,7 @@ As deliberações da Assembleia Geral ficarão consignadas num livro de actas na
 
 Na ausência de qualquer membro da mesa, a Assembleia Geral designará substitutos entre os seus membros.
 
-### SECÇÃO III – Direcção – Constituição, competência e funcionamento
+### Secção III – Direcção – Constituição, competência e funcionamento
 
 #### Artigo 38.º – Atribuições
 
@@ -255,7 +255,7 @@ As deliberações da Direcção são tomadas por maioria.
 
 PARÁGRAFO ÚNICO – O Presidente terá voto de desempate.
 
-### SECÇÃO IV – Conselho Fiscal – Composição, competência e funcionamento
+### Secção IV – Conselho Fiscal – Composição, competência e funcionamento
 
 #### Artigo 43.º – Composição
 
@@ -269,7 +269,7 @@ O Conselho Fiscal reunirá ordinariamente uma vez em cada ano, podendo reunir ex
 
 Ao Conselho Fiscal compete examinar os actos administrativos da Direcção, os livros de contabilidade e a situação financeira do Clube acerca dos quais formulará parecer que deverá figurar no relatório referido no artigo trigésimo terceiro.
 
-### SECÇÃO V – Conselho Geral – Composição, competência e funcionamento
+### Secção V – Conselho Geral – Composição, competência e funcionamento
 
 #### Artigo 46.º – Atribuições
 
@@ -302,7 +302,7 @@ Compete ao Conselho Geral:
 
 Os pareceres e deliberações do Conselho Geral serão registados em livro próprio, transmitidos aos restantes Corpos Gerentes e poderão ser consultados pelos sócios efectivos.
 
-### SECÇÃO VI – Secções
+### Secção VI – Secções
 
 #### Artigo 51.º
 
@@ -329,7 +329,7 @@ As Secções regem-se por regulamentos próprios aprovados pela Direcção sob p
 
 Cada Secção elege um representante para o Conselho Geral.
 
-## CAPÍTULO V – Disciplina
+## Capítulo V – Disciplina
 
 ### Artigo 56.º
 
@@ -350,7 +350,7 @@ As sanções previstas na alínea a) do artigo anterior são da competência da 
 
 A sanção previstas na alínea b) do artigo quinquagésimo sétimo é da competência exclusiva da Assembleia Geral, sob proposta da Direcção ou de um número de vinte sócios.
 
-## CAPÍTULO VI – Disposições gerais
+## Capítulo VI – Disposições gerais
 
 ### Artigo 60.º
 

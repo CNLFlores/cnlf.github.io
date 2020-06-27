@@ -34,7 +34,7 @@ toc: true
       <p><strong>Vogal</strong>:<br/>Manuel Menezes de Sequeira<br/><a href="https://twitter.com/Hairsplitter" target="_blank"><span class="fab fa-fw fa-twitter"></span></a><a href="https://www.facebook.com/mmsequeira" target="_blank"><span class="fab fa-fw fa-facebook"></span></a><a href="https://www.instagram.com/mmsequeira/" target="_blank"><span class="fab fa-fw fa-instagram"></span></a><a href="https://github.com/MMSequeira" target="_blank"><span class="fab fa-fw fa-github"></span></a><a href="https://www.linkedin.com/in/mmsequeira/" target="_blank"><span class="fab fa-fw fa-linkedin"></span></a></p>
     </td>
     <td style="vertical-align: bottom">
-      <p><strong>Vogal</strong>:<br/>André Martins<br/>&nbsp;</p>
+      <p><strong>Vogal</strong>:<br/>André Martins<br/><a href="https://www.facebook.com/profile.php?id=100009402628579" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
     </td>
   </tr>
   <tr>

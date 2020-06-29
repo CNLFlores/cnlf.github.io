@@ -13,7 +13,7 @@ toc: true
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
       <a href="/assets/images/jorge.jpg"><img src="/assets/images/jorge.jpg"></a>
-      <p><strong>Presidente</strong>:<br/>Jorge Ventura<br/><a href="https://twitter.com/joxventura" target="_blank"><span class="fab fa-fw fa-twitter"></span></a><a href="https://www.facebook.com/jorge.ventura.98" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
+      <p><strong>Presidente</strong>:<br/>Jorge Ventura<br/><a href="https://www.facebook.com/jorge.ventura.98" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
       <p><strong>Vice-Presidente</strong>:<br/>Rubélio Paulo Maciel<br/><a href="https://www.facebook.com/profile.php?id=100006167057160" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>

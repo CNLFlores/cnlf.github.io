@@ -59,4 +59,4 @@ gallery_boats:
     title: "No armazém."
 ---
 
-{% include gallery id="gallery_boats" class="full" layout="half" caption="Os botes." %}
+{% include gallery id="gallery_boats" class="full" layout="" caption="Os botes." %}

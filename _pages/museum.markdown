@@ -6,6 +6,7 @@ description:
 permalink: /museu/
 header:
   image: /assets/images/old.jpeg
+  og_image: /assets/images/old.jpeg
 gallery_museum:
   - url: assets/images/museu/grandes/IMG_4966.jpeg
     image_path: assets/images/museu/IMG_4966.jpeg

@@ -6,6 +6,7 @@ description:
 permalink: /gerentes/
 header:
   image: /assets/images/janela.jpg
+  og_image: /assets/images/janela.jpg
 toc: true
 ---
 

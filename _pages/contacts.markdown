@@ -6,6 +6,7 @@ description:
 permalink: /contacts/
 header:
   image: /assets/images/s.pedro.jpg
+  og_image: /assets/images/s.pedro.jpg
 ---
 
 <address>

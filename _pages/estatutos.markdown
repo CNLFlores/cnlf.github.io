@@ -7,6 +7,7 @@ permalink: /estatuto/
 toc: true
 header:
   image: /assets/images/formosa.jpg
+  og_image: /assets/images/formosa.jpg
 ---
 
 Documento complementar elaborado nos termos do número dois do artigo setenta e oito do Código do Notariado que faz parte integrante da escritura lavrada em trinta e um de Maio de mil novecentos e oitenta e nove, exarada a folhas sessenta e sete do livro de notas número cinquenta e cinco do Cartório Notarial de Lajes das Flores.

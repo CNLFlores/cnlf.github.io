@@ -1,8 +1,10 @@
 main:
   - title: "Início"
     url: /
-  - title: "Património Baleeiro"
-    url: /patrimonio/
+  - title: "Botes Baleeiros"
+    url: /botes/
+  - title: "Museu Baleeiro"
+    url: /museu/
   - title: "Acerca"
     url: /acerca/
   - title: "Corpos Gerentes"

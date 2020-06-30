@@ -2,6 +2,8 @@
 layout: single
 title: Botes Baleeiros
 permalink: /botes/
+description:
+  O Clube Naval de Lajes das Flores possui dois botes baleeiros, o «Formosa» e o «S. Pedro». A preservação e divulgação do património baleeiro da Ilha das Flores é parte da missão do nosso clube.
 header:
   image: /assets/images/botes.jpg
   og_image: /assets/images/botes.jpg

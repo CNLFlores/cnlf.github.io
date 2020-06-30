@@ -42,7 +42,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "dark"
 locale: "pt-PT"
 title_separator: "|"
-url: "https://www.cnlf.pt/"
+url: "https://cnlf.pt"
 logo: "/assets/images/logo2.png"
 #masthead_title: "CNLF"
 breadcrumbs: true

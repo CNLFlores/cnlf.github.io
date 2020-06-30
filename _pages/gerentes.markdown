@@ -3,7 +3,7 @@ layout: single
 title: Corpos gerentes
 permalink: /gerentes/
 header:
-  image: /assets/images/botes.jpg
+  image: /assets/images/janela.jpg
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Património Baleeiro
-permalink: /patrimonio/
+title: Botes Baleeiros
+permalink: /botes/
 header:
   image: /assets/images/botes.jpg
 gallery_boats:
@@ -37,6 +37,10 @@ gallery_boats:
     image_path: /assets/images/botes/encaixe-do-mastro.jpeg
     alt: "Estepe."
     title: "Estepe."
+  - url: /assets/images/botes/joselizandro.jpeg
+    image_path: /assets/images/botes/joselizandro.jpeg
+    alt: "José Lizandro."
+    title: "José Lizandro."
   - url: /assets/images/botes/em-arranjos-2.jpeg
     image_path: /assets/images/botes/em-arranjos-2.jpeg
     alt: "Em reparações."
@@ -59,4 +63,4 @@ gallery_boats:
     title: "No armazém."
 ---
 
-{% include gallery id="gallery_boats" class="full" layout="" caption="Os botes." %}
+{% include gallery id="gallery_boats" class="full" layout="" caption="Os botes baleeiros «São Pedro» e «Formosa»." %}

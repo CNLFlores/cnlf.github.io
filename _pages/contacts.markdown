@@ -3,7 +3,7 @@ layout: single
 title: Contactos
 description:
   Clube Naval de Lajes das Flores, Antiga Fábrica da Baleia – Zona Portuária, Rua do Porto, 9960-438 Lajes das Flores, Portugal, +351 292 593 145, cnlflores@sapo.pt
-permalink: /contacts/
+permalink: /contactos/
 header:
   image: /assets/images/s.pedro.jpg
   og_image: /assets/images/s.pedro.jpg

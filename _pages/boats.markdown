@@ -4,6 +4,7 @@ title: Botes Baleeiros
 permalink: /botes/
 header:
   image: /assets/images/botes.jpg
+  og_image: /assets/images/botes.jpg
 gallery_boats:
   - url: /assets/images/formosa2.jpg
     image_path: /assets/images/formosa2.jpg

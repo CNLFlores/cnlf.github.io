@@ -2,7 +2,6 @@
 layout: home
 author_profile: true
 permalink: /
-#excerpt: "Excerto do conteúdo [...]"
 header:
   image: /assets/images/cnlf.jpg
 ---

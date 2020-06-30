@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Museu Baleeiro
+description:
+  O Clube Naval de Lajes das Flores gere o Museu Baleeiro da Lajes das Flores. A preservação e divulgação do património baleeiro da Ilha das Flores é parte da missão do nosso clube.
 permalink: /museu/
 header:
   image: /assets/images/old.jpeg

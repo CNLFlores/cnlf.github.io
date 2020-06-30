@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Corpos gerentes
+description:
+  Os corpos gerentes do Clube Naval de Lajes das Flores compõem-se da Direcção, Assembleia Geral (com a respectiva mesa) e Conselho Fiscal.
 permalink: /gerentes/
 header:
   image: /assets/images/janela.jpg

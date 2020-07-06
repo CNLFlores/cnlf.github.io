@@ -1,8 +1,12 @@
 ---
-layout: archive
+layout: single
+title: Publicações
+permalink: /publicacoes/
+header:
+  image: /assets/images/ambos.jpeg
+  og_image: /assets/images/ambos.jpeg
 ---
 
-{{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 

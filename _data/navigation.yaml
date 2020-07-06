@@ -1,10 +1,12 @@
 main:
-  - title: "Início"
-    url: /
+  - title: "Publicações"
+    url: /publicacoes/
   - title: "Botes Baleeiros"
     url: /botes/
   - title: "Museu Baleeiro"
     url: /museu/
+  - title: "Vela Ligeira"
+    url: /vela-ligeira/
   - title: "Acerca"
     url: /acerca/
   - title: "Inscrição"

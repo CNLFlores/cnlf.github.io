@@ -82,6 +82,13 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/clubenavalflores/"
 
+category_archive:
+  type: liquid
+  path: /categorias/
+tag_archive:
+  type: liquid
+  path: /etiquetas/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

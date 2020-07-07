@@ -308,6 +308,10 @@ gallery_museum:
     image_path: assets/images/museu/IMG_5047.jpeg
     alt: "Vista do Museu Baleeiro."
     title: "Vista do Museu Baleeiro"
+  - url: assets/images/museu/companha.jpg
+    image_path: assets/images/museu/companha.jpg
+    alt: "Companha."
+    title: "Companha"
 ---
 
 {% include gallery id="gallery_museum" class="full" layout="" caption="Aspectos do Museu Baleeiro de Lajes das Flores." %}

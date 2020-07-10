@@ -66,4 +66,14 @@ gallery_boats:
     title: "No armazém."
 ---
 
+O Clube Naval de Lajes das Flores é responsável pela manutenção e utilização dos botes São Pedro e Formosa. Ao longo dos anos, o clube tem participado em várias regatas na Região Autónoma dos Açores e participou em todas as edições do Campeonato Regional de Botes Baleeiros, tendo organizado a primeira edição desta prova na ilha das Flores, em 2016. 
+
+O Clube faz-se representar na Comissão Regional do Património Baleeiro, entidade que depende da Secretaria Regional da Cultura e que organiza e supervisiona a manutenção, utilização desportiva e gestão do Património Baleeiro dos Açores.
+
+Cada bote tem uma tripulação de 7 elementos, necessários não só para a navegação, mas também para arriar e varar o bote, e para o aparelhar para o mar. 
+
+A época começa em Maio e vai até Setembro. As inscrições para participar, tanto no remo como à vela, estão sempre abertas.
+
+É o nosso objectivo manter e preservar as tradições náuticas da baleação e continuar a representar a ilha nos grandes eventos regionais.
+
 {% include gallery id="gallery_boats" class="full" layout="" caption="Os botes baleeiros «São Pedro» e «Formosa»." %}

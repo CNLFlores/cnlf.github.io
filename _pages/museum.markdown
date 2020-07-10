@@ -314,4 +314,10 @@ gallery_museum:
     title: "Companha"
 ---
 
+O Clube Naval de Lajes das Flores é responsável pelo Museu Baleeiro das Lajes e pela preservação do património e da memória histórica da Baleação.
+
+O Museu está todo o ano aberto ao público.
+
+Está em curso a renovação do actual armazém do CNLF, que voltará ao seu papel de Casa dos Botes e onde o São Pedro e o Formosa poderão finalmente estar protegidos, ser ainda mais bem mantidos. Mas sobretudo, a Casa dos Botes será parte de um Museu Vivo, no qual os visitantes poderão ver os botes, tanto na Casa dos Botes, como no mar, a navegar, quando a época estiver aberta. Botes que já não apanham baleias, mas que ainda navegam!
+
 {% include gallery id="gallery_museum" class="full" layout="" caption="Aspectos do Museu Baleeiro de Lajes das Flores." %}
